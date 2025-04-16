@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "android": {
+      "newArchEnabled": true
+    },
+    "ios": {
+      "newArchEnabled": true
+    }
+  }
+}

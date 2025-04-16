@@ -1,0 +1,17 @@
+XVBA License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of XVBA and associated documentation files (the "Software"), to use the Software for any purpose, including commercial applications, without modification.
+
+1. Ownership: XVBA is the intellectual property of its developers and contributors. This license does not grant ownership or any intellectual property rights over XVBA.
+
+2. No Modification: You are not permitted to modify, adapt, or alter XVBA in any way. The Software must be used as-is, without any modifications.
+
+3. Attribution: Users of XVBA are required to give appropriate credit to the XVBA project and its contributors. Attribution should be provided in the form of a mention, acknowledgment, or citation in any derived works, documentation, or publications related to the use of XVBA.
+
+4. No Warranty: XVBA is provided "as is," without warranty of any kind, express or implied. The XVBA project and its contributors make no guarantees regarding the suitability, reliability, or accuracy of the Software. Users acknowledge that the use of XVBA is at their own risk.
+
+5. Limitation of Liability: In no event shall the XVBA project or its contributors be held liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+6. Termination: This license is effective until terminated. The XVBA project and its contributors reserve the right to terminate this license at any time and for any reason.
+
+7. Governing Law: This license shall be governed by and interpreted in accordance with the laws of [Jurisdiction]. Any legal disputes arising from the use or distribution of XVBA shall be subject to the exclusive jurisdiction of the courts in [Jurisdiction].
